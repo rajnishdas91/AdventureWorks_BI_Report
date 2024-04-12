@@ -11,12 +11,10 @@ In this stage, our project data is extracted, transformed and load using Power Q
 
 
 * STAGE 2: Creating a Relational Data Model:  
-
 In this stage, a data model is created in order to form connection between various tables. These connections are created keeping in mind their cardinality, filter-flow, normalization etc for effective retrieval of information.
 
 * STAGE 3: Adding Calculated Fields with DAX :  
 In this Stage, Data Analysis Expression or DAX is used to create Calculated Columns and Dashboards in order to deduce complex calculations and queries.  
 
 * STAGE 4: Visualizing Data with Reports :  
-
 In this stage, the data is brought to LIFE with reports, dashboards, cards & KPI. Various best practice methods were applied in order to make the report interactive, attractive and readable.
