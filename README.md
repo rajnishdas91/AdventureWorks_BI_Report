@@ -3,7 +3,7 @@
 * This Report is created using Power BI. In this report, raw data is transformed into professional-quality reports and dashboards to track KPIs, compare regional performance, analyze product-level trends, and identify high-value customers.
 ### Final Dashboard-  
 
-![main_dashboard](https://github.com/rajnishdas91/AdventureWorks_BI_Report/assets/146939399/96660a23-65e1-420b-af53-9fa3fb4b3f5e)  
+![main_dashboard](https://github.com/user-attachments/assets/64630d4b-463e-4903-a7c3-dc5336a36d71)  
   
 ### Different Steps followed -  
 * STAGE 1: Connecting & Shaping Data :  
